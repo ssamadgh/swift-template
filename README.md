@@ -7,7 +7,7 @@ A template based generator for Swift projects.
 Clone or download the repository & run:
 
 ```shell
-git clone https://github.com/BinaryBirds/swift-template.git
+git clone https://github.com/ssamadgh/swift-template.git
 cd swift-template
 make install
 ```
@@ -25,10 +25,10 @@ Install a new template using a git repository:
 swift template install <git-url-of-the-template> [-g]
 
 # install local template
-swift template install https://github.com/corekit/viper-module-template
+swift template install https://github.com/ssamadgh/viper-module-template
 
 # install global template
-swift template install https://github.com/feathercms/feather-module-template -g
+swift template install https://github.com/ssamadgh/feather-module-template -g
 ```
 
 Update all templates, both local & global:
